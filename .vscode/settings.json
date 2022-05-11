@@ -1,0 +1,15 @@
+{
+    "html-css-class-completion.enableEmmetSupport": true,
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.columnSelection": true,
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.foldingImportsByDefault": true,
+    "files.autoGuessEncoding": true,
+    "files.insertFinalNewline": true,
+    "explorer.fileNesting.enabled": true,
+    "explorer.incrementalNaming": "smart",
+    "search.actionsPosition": "auto",
+    "search.globalFindClipboard": true,
+    "search.quickOpen.includeSymbols": true,
+    "search.searchEditor.reusePriorSearchConfiguration": true
+}
